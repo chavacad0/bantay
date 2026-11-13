@@ -1,0 +1,25 @@
+{
+ "name": "Shield Quest",
+ "short_name": "Shield Quest",
+ "id": "./",
+ "start_url": "./",
+ "scope": "./",
+ "display": "browser",
+ "background_color": "#140d29",
+ "theme_color": "#1a1030",
+ "description": "Ava's cybersecurity study buddy with Bantay the phoenix",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  }
+ ]
+}
