@@ -6,8 +6,7 @@ Every study sprint, quiz, and reflection helps him evolve:
 🥚 Spark Egg → 🐣 Hatchling → 🛡️ Sentinel → 🦅 Guardian → 🎧 SOC Defender
 
 ## Why I built this
-I'm on my path to becoming a SOC analyst in the Philippines 🇵🇭,
-from TESDA CSS NC II to CompTIA Security+ to my first SOC job.
+I'm on my path to becoming a SOC analyst in the Philippines 🇵🇭
 I learn best when it's fun, so I turned studying into a quest with a buddy who grows with me.
 
 ## What's inside
